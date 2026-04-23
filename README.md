@@ -17,4 +17,4 @@ The project demonstrates foundational skills in web development and version cont
 ## Author:
 Jonathan Moriwah
 BSEM1204 (Software Engineering with Multimedia)
-Semester 04 – 2026
+Semester 04 – Year 2
